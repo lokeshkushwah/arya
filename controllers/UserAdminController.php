@@ -80,14 +80,17 @@ class UserAdminController extends Controller {
 
             $password = $request['UserAdmin']['password_hash'];
             $new = \Yii::$app->security->generatePasswordHash($password);
-            echo $new;
+            $model->name='';
+            $model->father_name='';
+            $model->course='';
+            $model->mobile='';
             $model->password_hash = $new;
             $model->auth_key = Yii::$app->security->generateRandomString();
             $model->created_at = strtotime(date('d-m-y H:i:s'));
             $model->updated_at = strtotime(date('d-m-y H:i:s'));
             //die();
            	
-            $model->save();
+            $model->save(false);
             Yii::$app->authManager->assign(Yii::$app->authManager->getRole('Registered'), $model->id);
              return $this->redirect(['index']);
            // return $this->redirect(['view', 'id' => $model->id]);

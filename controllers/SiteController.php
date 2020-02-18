@@ -73,7 +73,7 @@ class SiteController extends Controller
      */
     public function actionIndex()
     {
-        $this->layout='arya';
+        $this->layout='home';
         return $this->render('home_page');
     }
 
@@ -151,6 +151,7 @@ class SiteController extends Controller
      */
     public function actionAbout()
     {
+       // $this->layout='arya';
         return $this->render('about');
     }
 

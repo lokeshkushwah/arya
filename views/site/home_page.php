@@ -1,4 +1,4 @@
-<!-- about-->
+
 <section class="wthree-row py-5" id="about">
     <div class="container pt-lg-5">
         <div class="row about-main">
@@ -14,9 +14,7 @@
         </div>
     </div>
 </section>
-<!-- //about -->
 
-<!-- features -->
 <section class="banner-bottom py-5" id="services">
     <div class="container py-sm-4">
         <div class="heading-grid text-center">
@@ -107,108 +105,23 @@
                     <div class="col-sm-6 col-6">
                         <p class="text-li">Branches</p>
                         <h4 class="text-wh">ABC Institute</h4>
-                       
+
                     </div>
                     <div class="col-sm-6 col-6">
                         <p>Working Staff</p>
                         <h4>30</h4>
-                      
+
                     </div>
-                  
+
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- //stats -->
 
-<!-- Gallery 
-<section class="gallery py-5" id="gallery">
-    <div class="container py-md-5">
-        <div class="header text-center">
-            <h3 class="tittle mb-lg-5 mb-3">Our Gallery</h3>
-        </div>
-        <div class="row news-grids text-center gallery-wrap">
-            <div class="col-md-4 gal-img">
-                <a href="#gal1"><img src="images/g1.jpg" alt="news image" class="img-fluid"></a>
-            </div>
-            <div class="col-md-4 gal-img">
-                <a href="#gal2"><img src="images/g2.jpg" alt="news image" class="img-fluid"></a>
-            </div>
-            <div class="col-md-4 gal-img">
-                <a href="#gal3"><img src="images/g3.jpg" alt="news image" class="img-fluid"></a>
-            </div>
-            <div class="col-md-4 gal-img">
-                <a href="#gal4"><img src="images/g4.jpg" alt="news image" class="img-fluid"></a>
-            </div>
-            <div class="col-md-4 gal-img">
-                <a href="#gal5"><img src="images/g5.jpg" alt="news image" class="img-fluid"></a>
-            </div>
-            <div class="col-md-4 gal-img">
-                <a href="#gal6"><img src="images/g6.jpg" alt="news image" class="img-fluid"></a>
-            </div>
-        </div>
-
-    
-        <div id="gal1" class="pop-overlay animate">
-            <div class="popup">
-                <img src="images/g1.jpg" alt="Popup Image" class="img-fluid" />
-
-                <a class="close" href="#gallery">&times;</a>
-            </div>
-        </div>
-     
-
-    
-        <div id="gal2" class="pop-overlay animate">
-            <div class="popup">
-                <img src="images/g2.jpg" alt="Popup Image" class="img-fluid" />
-
-                <a class="close" href="#gallery">&times;</a>
-            </div>
-        </div>
-   
-        <div id="gal3" class="pop-overlay animate">
-            <div class="popup">
-                <img src="images/g3.jpg" alt="Popup Image" class="img-fluid" />
-
-                <a class="close" href="#gallery">&times;</a>
-            </div>
-        </div>
-       
-        <div id="gal4" class="pop-overlay animate">
-            <div class="popup">
-                <img src="images/g4.jpg" alt="Popup Image" class="img-fluid" />
-
-                <a class="close" href="#gallery">&times;</a>
-            </div>
-        </div>
-      
-        <div id="gal5" class="pop-overlay animate">
-            <div class="popup">
-                <img src="images/g5.jpg" alt="Popup Image" class="img-fluid" />
-
-                <a class="close" href="#gallery">&times;</a>
-            </div>
-        </div>
-        
-        <div id="gal6" class="pop-overlay animate">
-            <div class="popup">
-                <img src="images/g6.jpg" alt="Popup Image" class="img-fluid" />
-
-                <a class="close" href="#gallery">&times;</a>
-            </div>
-        </div>
-     
-
-    </div>
-</section>
-gallery -->
-
-<!-- team -->
 <section class="team py-5" id="team">
     <div class="container py-xl-5 py-lg-3">
-        
+
         <div class="row inner-sec-w3layouts-w3pvt-lauinfo">
             <div class="col-md-6 col-sm-6">
                 <div class="team-grids text-center">
@@ -256,11 +169,11 @@ gallery -->
                     </div>
                 </div>
             </div>
-       
+
         </div>
     </div>
 </section>
-<!-- team -->
+
 
 
 <section class="section-middle py-5" id="bottom">
@@ -280,14 +193,14 @@ gallery -->
     </div>
 </section>
 
-<!-- contact -->
+
 <section class="contact py-5" id="contact">
     <div class="container py-sm-4">
         <h3 class="heading mb-4">Contact Us</h3>
         <div class="row contact-top">
             <div class="col-lg col-md-6 contact-grid-wthree">
                 <div class="contact_grid_right">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56594.55533162847!2d76.57129807448993!3d27.557553479504072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39729a2519949a83%3A0x588c43bb7e71d6a6!2sAryabhatt%20Institute!5e0!3m2!1sen!2sau!4v1571763547684!5m2!1sen!2sau" width="100%" height="280" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56594.55533162847!2d76.57129807448993!3d27.557553479504072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39729a2519949a83%3A0x588c43bb7e71d6a6!2sAryabhatt%20Institute!5e0!3m2!1sen!2sau!4v1571763547684!5m2!1sen!2sau" width="100%" height="280" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 contact-grid-wthree foot-top mt-md-0 mt-5">
@@ -297,14 +210,15 @@ gallery -->
                     <div class="contact-style-w3ls">
                         <p><span class="fa fa-map-marker"></span><strong>Location :</strong> Scheme No 8, Near Balbharti School, Alwar, Rajasthan 301001, India</p>
                     </div>
-                    
+
                     <div class="contact-style-w3ls">
                         <p><span class="fa fa-phone"></span><strong>Mobile :</strong> +91 94144 03459</p>
-                        <p><span class="fa fa-mobile"></span><strong>Mobile :</strong>+91  94144 27840</p>
+                        <p><span class="fa fa-mobile"></span><strong>Mobile :</strong>+91 94144 27840</p>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- //contact -->
+
+
