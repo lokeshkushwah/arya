@@ -1,0 +1,44 @@
+Return-Path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Delivered-To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Received: from sg2plcpnl0073.prod.sin2.secureserver.net
+	by sg2plcpnl0073.prod.sin2.secureserver.net with LMTP
+	id KBKqNMIP/F0svQsASlcL2Q
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	for <anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net>; Thu, 19 Dec 2019 17:03:14 -0700
+Return-path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Envelope-to: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Delivery-date: Thu, 19 Dec 2019 17:03:14 -0700
+Received: from root by sg2plcpnl0073.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	id 1ii5lC-003KqA-QG
+	for anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net; Thu, 19 Dec 2019 17:03:14 -0700
+To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.9.13 now available (security release)
+Date: Thu, 19 Dec 2019 17:03:14 -0700
+From: noreply@sg2plcpnl0073.prod.sin2.secureserver.net
+Message-ID: <cabb381e80fcb64ec771989d6b712918@sg2plcpnl0073.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.49
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.9.13 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://www.aryabhattinstitute.com
+
+
+The changes for this version are:
+
+WordPress 4.9.13 fixes 4 security issues.
+
+Security
+* Fixed an issue where an unprivileged user could make a post sticky via the REST API.
+* Fixed an issue where cross-site scripting (XSS) could be stored in well-crafted links.
+* Hardened wp_kses_bad_protocol() to ensure that it is aware of the named colon attribute.
+* Fixed a stored XSS vulnerability using block editor content.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

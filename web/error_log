@@ -1,0 +1,29 @@
+[18-Nov-2016 14:53:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 89
+[18-Nov-2016 14:53:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 89
+[18-Nov-2016 14:54:16 Asia/Kolkata] PHP Fatal error:  Class 'app\helpers\Url' not found in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 89
+[18-Nov-2016 14:54:36 Asia/Kolkata] PHP Fatal error:  Class 'app\helpers\Url' not found in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 89
+[18-Nov-2016 14:54:46 Asia/Kolkata] PHP Fatal error:  Class 'app\helpers\Url' not found in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 89
+[19-Nov-2016 14:25:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/site/index.php on line 28
+[19-Nov-2016 14:27:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/site/index.php on line 28
+[19-Nov-2016 14:28:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/site/index.php on line 28
+[19-Nov-2016 14:29:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/site/index.php on line 30
+[19-Nov-2016 14:29:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/site/index.php on line 30
+[19-Nov-2016 14:30:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/site/index.php on line 30
+[19-Nov-2016 14:30:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/site/index.php on line 30
+[21-Nov-2016 21:54:40 Asia/Kolkata] PHP Notice:  Undefined index: Super Admin in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/layouts/main.php on line 209
+[21-Nov-2016 21:54:40 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/layouts/main.php on line 209
+[21-Nov-2016 21:54:41 Asia/Kolkata] PHP Notice:  Undefined index: Super Admin in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/layouts/main.php on line 209
+[21-Nov-2016 21:54:41 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/layouts/main.php on line 209
+[22-Nov-2016 12:41:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method Yii::app() in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/controllers/SiteController.php on line 157
+[22-Nov-2016 12:42:20 Asia/Kolkata] PHP Warning:  Uncaught exception 'yii\base\ErrorException' with message 'Undefined variable: app' in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/controllers/SiteController.php:157
+Stack trace:
+#0 /home/deepagce/public_html/deepaksinghkushwah.com/lucky/controllers/SiteController.php(157): yii\base\ErrorHandler->handleError(8, 'Undefined varia...', '/home/deepagce/...', 157, Array)
+#1 [internal function]: app\controllers\SiteController->actionSignup()
+#2 /home/deepagce/public_html/deepaksinghkushwah.com/lucky/vendor/yiisoft/yii2/base/InlineAction.php(55): call_user_func_array(Array, Array)
+#3 /home/deepagce/public_html/deepaksinghkushwah.com/lucky/vendor/yiisoft/yii2/base/Controller.php(154): yii\base\InlineAction->runWithParams(Array)
+#4 /home/deepagce/public_html/deepaksinghkushwah.com/lucky/vendor/yiisoft/yii2/base/Module.php(454): yii\base\Controller->runAction('signup', Array)
+#5 /home/deepagce/public_html/deepaksinghkushwah.com/lucky/vendor/yiisoft/yii2/web/Application.php(100): yii\base\Module->runAction(' in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/controllers/SiteController.php on line 157
+[22-Nov-2016 12:42:21 Asia/Kolkata] PHP Fatal error:  Function name must be a string in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/controllers/SiteController.php on line 157
+[22-Nov-2016 13:37:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY) in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 128
+[22-Nov-2016 13:38:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY) in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 128
+[22-Nov-2016 13:38:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY) in /home/deepagce/public_html/deepaksinghkushwah.com/lucky/views/examination/index.php on line 128

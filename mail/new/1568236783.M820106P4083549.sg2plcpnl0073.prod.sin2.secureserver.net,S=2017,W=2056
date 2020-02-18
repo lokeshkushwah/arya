@@ -1,0 +1,39 @@
+Return-Path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Delivered-To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Received: from sg2plcpnl0073.prod.sin2.secureserver.net
+	by sg2plcpnl0073.prod.sin2.secureserver.net with LMTP
+	id AIltLO9keV1dTz4ASlcL2Q
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	for <anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net>; Wed, 11 Sep 2019 14:19:43 -0700
+Return-path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Envelope-to: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Delivery-date: Wed, 11 Sep 2019 14:19:43 -0700
+Received: from root by sg2plcpnl0073.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	id 1i8A1f-00HJvd-Lv
+	for anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net; Wed, 11 Sep 2019 14:19:43 -0700
+To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Subject: [Installatron] ABC Alwar backup failed
+Date: Wed, 11 Sep 2019 15:19:43 -0600
+From: noreply@sg2plcpnl0073.prod.sin2.secureserver.net
+Message-ID: <fddc619fc3ed21743e3f4d86c7c08d71@sg2plcpnl0073.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.47
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+The backup process for ABC Alwar located at http://www.aryabhattinstitute.com has failed and the details of the failure have been logged.
+
+Technical error:
+Error: mysql database connection failed:
+host = localhost
+database = i3164046_wp1
+username = i3164046_wp1
+password = **HIDDEN**
+prefix = wp_
+errstr = Could not connect to `localhost` using the username `i3164046_wp1` and password **HIDDEN** (mysqli) -- [1045] Access denied for user 'i3164046_wp1'@'localhost' (using password: YES)
+
+
+End of report.
+

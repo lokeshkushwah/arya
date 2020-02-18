@@ -1,0 +1,38 @@
+Return-Path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Delivered-To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Received: from sg2plcpnl0073.prod.sin2.secureserver.net
+	by sg2plcpnl0073.prod.sin2.secureserver.net with LMTP
+	id IN4LD6Ui9F3gfz0ASlcL2Q
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	for <anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net>; Fri, 13 Dec 2019 16:45:41 -0700
+Return-path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Envelope-to: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Delivery-date: Fri, 13 Dec 2019 16:45:41 -0700
+Received: from root by sg2plcpnl0073.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	id 1ifucv-00HJ4K-5x
+	for anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net; Fri, 13 Dec 2019 16:45:41 -0700
+To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 4.9.12 now available (security release)
+Date: Fri, 13 Dec 2019 16:45:41 -0700
+From: noreply@sg2plcpnl0073.prod.sin2.secureserver.net
+Message-ID: <479563fd105642ed5987083e730e5c55@sg2plcpnl0073.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.49
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 4.9.12 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://www.aryabhattinstitute.com
+
+
+The changes for this version are:
+
+WordPress 4.9.12 is a security release. We strongly encourage you to update your sites immediately.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

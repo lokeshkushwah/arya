@@ -1,0 +1,45 @@
+Return-Path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Delivered-To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Received: from sg2plcpnl0073.prod.sin2.secureserver.net
+	by sg2plcpnl0073.prod.sin2.secureserver.net with LMTP
+	id mCuYMMIP/F2fqgoASlcL2Q
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	for <anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net>; Thu, 19 Dec 2019 17:03:14 -0700
+Return-path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Envelope-to: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Delivery-date: Thu, 19 Dec 2019 17:03:14 -0700
+Received: from root by sg2plcpnl0073.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	id 1ii5lC-003Kpy-NV
+	for anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net; Thu, 19 Dec 2019 17:03:14 -0700
+To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 5.3.2 now available
+Date: Thu, 19 Dec 2019 17:03:14 -0700
+From: noreply@sg2plcpnl0073.prod.sin2.secureserver.net
+Message-ID: <7c0df440225a7db41963435381bfe36f@sg2plcpnl0073.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.49
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.3.2  is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://www.aryabhattinstitute.com
+
+
+The changes for this version are:
+
+This maintenance release features 5 fixes and enhancements. Shortly after WordPress 5.3.1 was released, a couple of high severity Trac tickets were opened. The Core team scheduled this quick maintenance release to resolve these issues.
+
+Bug Fixes
+* Date/Time: Ensure that get_feed_build_date() correctly handles a modified post object with invalid date.
+* Uploads: Fix file name collision in wp_unique_filename() when uploading a file with upper case extension on non case-sensitive file systems.
+* Media: Fix PHP warnings in wp_unique_filename() when the destination directory is unreadable.
+* Administration: Fix the colors in all color schemes for buttons with the .active class.
+* Posts, Post Types: In wp_insert_post(), when checking the post date to set future or publish status, use a proper delta comparison.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

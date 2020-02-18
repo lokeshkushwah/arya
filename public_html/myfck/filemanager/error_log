@@ -1,0 +1,342 @@
+[03-Aug-2017 09:40:36 Europe/Rome] PHP Notice:  Undefined index: RF in /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php on line 3
+[01-Dec-2017 04:01:01 Europe/Rome] PHP Notice:  Undefined index: RF in /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php on line 3
+[01-Dec-2017 04:03:14 Europe/Rome] PHP Notice:  Undefined index: RF in /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php on line 3
+[06-Dec-2017 05:51:12 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/08.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:12 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/09.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:13 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/10.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:14 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/13.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:14 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/14.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:15 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/15.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:15 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/16.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:15 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/17.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:15 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/18.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:16 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/19.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:16 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/20.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:16 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/21.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:17 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/22.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:17 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/23.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:17 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/24.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:18 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/25.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:18 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/26.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:18 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/27.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:18 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/28.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:19 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/29.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:19 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/30.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:20 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/31.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:20 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/32.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:21 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/33.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:21 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/34.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:21 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/35.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:21 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/36.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:22 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/37.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:22 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/38.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 05:51:22 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/39.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:06 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/08.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:06 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/09.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:06 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/10.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:07 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/13.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:07 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/14.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:07 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/15.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:08 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/16.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:08 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/17.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:08 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/18.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:08 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/19.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:09 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/20.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:09 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/21.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:09 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/22.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:09 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/23.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:09 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/24.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[06-Dec-2017 06:10:10 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC CGL 05/25.png is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[30-Jan-2018 06:17:33 Europe/Rome] PHP Notice:  Undefined index: RF in /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php on line 3
+[05-Feb-2018 04:37:58 Europe/Rome] PHP Notice:  Undefined index: RF in /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php on line 3
+[05-Feb-2019 09:22:30 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/rpf paper 7/01.jpeg is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/rp...', '../../thumbs/rp...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[05-Feb-2019 09:22:39 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/rpf paper 7/01_1.jpeg is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/rp...', '../../thumbs/rp...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[20-Aug-2019 18:11:57 Europe/Rome] PHP Notice:  Undefined index: RF in /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php on line 3
+[27-Nov-2019 06:19:46 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op1.JPEG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[27-Nov-2019 06:20:32 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op1.JPG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[27-Nov-2019 06:22:46 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op2.JPEG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[27-Nov-2019 06:22:46 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op1.JPG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[27-Nov-2019 06:23:59 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op1.JPG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[27-Nov-2019 06:26:50 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op2.JPEG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[27-Nov-2019 06:28:14 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op2.JPEG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346
+[27-Nov-2019 06:28:48 Europe/Rome] PHP Fatal error:  Uncaught exception 'Exception' with message 'file ../../images/SSC_CGL_202/q3op2.JPEG is missing or invalid' in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php:346
+Stack trace:
+#0 /home/anuragdevlal/public_html/myfck/filemanager/include/utils.php(216): imageLib->resizeImage(122, 91, 'crop')
+#1 /home/anuragdevlal/public_html/myfck/filemanager/upload.php(92): create_img('../../images/SS...', '../../thumbs/SS...', 122, 91)
+#2 {main}
+  thrown in /home/anuragdevlal/public_html/myfck/filemanager/include/php_image_magician.php on line 346

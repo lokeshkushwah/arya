@@ -1,0 +1,48 @@
+Return-Path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Delivered-To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Received: from sg2plcpnl0073.prod.sin2.secureserver.net
+	by sg2plcpnl0073.prod.sin2.secureserver.net with LMTP
+	id YP7LKieYcV2WcTEASlcL2Q
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	for <anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net>; Thu, 05 Sep 2019 16:20:07 -0700
+Return-path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Envelope-to: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Delivery-date: Thu, 05 Sep 2019 16:20:07 -0700
+Received: from root by sg2plcpnl0073.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	id 1i612t-00Db3Z-Ko
+	for anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net; Thu, 05 Sep 2019 16:20:07 -0700
+To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 5.2.3 now available (security release)
+Date: Thu, 5 Sep 2019 17:20:07 -0600
+From: noreply@sg2plcpnl0073.prod.sin2.secureserver.net
+Message-ID: <0eb7a8ebd7150ea251f6082b4c418044@sg2plcpnl0073.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.46
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.2.3 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://www.aryabhattinstitute.com
+
+
+The changes for this version are:
+
+This security and maintenance release features 29 fixes and enhancements. Plus, it adds a number of security fixes—see the list below.
+
+Security
+* Props to Simon Scannell of RIPS Technologies for finding and disclosing two issues. The first, a cross-site scripting (XSS) vulnerability found in post previews by contributors. The second was a cross-site scripting vulnerability in stored comments. 
+* Props to Tim Coen for disclosing an issue where validation and sanitization of a URL could lead to an open redirect. 
+* Props to Anshul Jain for disclosing reflected cross-site scripting during media uploads.
+* Props to Zhouyuan Yang of Fortinet’s FortiGuard Labs who disclosed a vulnerability for cross-site scripting (XSS) in shortcode previews.
+* Props to Ian Dunn of the Core Security Team for finding and disclosing a case where reflected cross-site scripting could be found in the dashboard.
+* Props to Soroush Dalili (@irsdl) from NCC Group for disclosing an issue with URL sanitization that can lead to cross-site scripting (XSS) attacks.
+* In addition to the above changes, we are also updating jQuery on older versions of WordPress. This change was added in 5.2.1 and is now being brought to older versions.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

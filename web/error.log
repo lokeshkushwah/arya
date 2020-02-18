@@ -1,0 +1,106 @@
+[29-Aug-2016 03:57:59 Europe/Berlin] PHP Fatal error:  Call to undefined method app\models\User::find() in D:\xampp\htdocs\property\vendor\yiisoft\yii2\validators\ExistValidator.php on line 155
+[29-Aug-2016 04:00:57 Europe/Berlin] PHP Fatal error:  Call to undefined method app\models\User::find() in D:\xampp\htdocs\property\vendor\yiisoft\yii2\validators\ExistValidator.php on line 155
+[29-Aug-2016 04:08:09 Europe/Berlin] PHP Fatal error:  Class 'TypeaheadBasic' not found in D:\xampp\htdocs\property\views\floor-plan\_form.php on line 19
+[29-Aug-2016 04:08:36 Europe/Berlin] PHP Fatal error:  Class 'TypeaheadBasic' not found in D:\xampp\htdocs\property\views\floor-plan\_form.php on line 20
+[29-Aug-2016 04:09:47 Europe/Berlin] PHP Fatal error:  Class 'TypeaheadBasic' not found in D:\xampp\htdocs\property\views\floor-plan\_form.php on line 20
+[29-Aug-2016 04:16:59 Europe/Berlin] PHP Fatal error:  Class 'Select2' not found in D:\xampp\htdocs\property\views\price\_form.php on line 17
+[06-Sep-2016 07:15:43 Europe/Berlin] PHP Fatal error:  Class 'Select2' not found in D:\xampp\htdocs\property\views\projects\_form.php on line 18
+[13-Sep-2016 12:40:55 Europe/Berlin] PHP Fatal error:  Class 'Select2' not found in D:\xampp\htdocs\property\views\price\_form.php on line 16
+[13-Sep-2016 12:41:21 Europe/Berlin] PHP Fatal error:  Class 'yii\select2\select2' not found in D:\xampp\htdocs\property\views\price\_form.php on line 17
+[13-Sep-2016 12:44:28 Europe/Berlin] PHP Fatal error:  Class 'DynamicFormWidget' not found in D:\xampp\htdocs\property\views\projects\_form.php on line 66
+[15-Sep-2016 11:16:54 Europe/Berlin] PHP Fatal error:  Call to undefined method wbraganca\dynamicform\DynamicFormWidget::begin() in D:\xampp\htdocs\property\views\projects\_form.php on line 67
+[15-Sep-2016 13:27:52 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Address' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 162
+[15-Sep-2016 13:41:59 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Poitem' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 165
+[15-Sep-2016 13:42:16 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Poitem' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 165
+[15-Sep-2016 13:43:09 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Poitem' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 165
+[15-Sep-2016 13:43:28 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Poitem' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 165
+[15-Sep-2016 13:46:01 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\ArrayHelper' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 129
+[15-Sep-2016 13:47:03 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\ArrayHelper' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 132
+[18-Sep-2016 12:11:52 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\ArrayHelper' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 129
+[18-Sep-2016 12:23:05 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Poitem' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 145
+[18-Sep-2016 12:30:41 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Poitem' not found in D:\xampp\htdocs\property\controllers\ProjectsController.php on line 166
+[18-Sep-2016 12:31:05 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:31:17 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:32:14 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:33:40 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:36:21 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:40:14 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:40:16 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:52:06 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:52:07 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:54:00 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:59:13 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[18-Sep-2016 12:59:16 Europe/Berlin] PHP Fatal error:  Call to undefined method Symfony\Component\DomCrawler\Crawler::rewind() in D:\xampp\htdocs\property\vendor\wbraganca\yii2-dynamicform\DynamicFormWidget.php on line 201
+[21-Oct-2016 14:53:04 Europe/Berlin] PHP Fatal error:  Class 'app\models\ExamUser' not found in D:\xampp\htdocs\online-exam\models\ExamintionUserRelation.php on line 35
+[21-Oct-2016 14:53:19 Europe/Berlin] PHP Fatal error:  Class 'app\models\ExamUser' not found in D:\xampp\htdocs\online-exam\models\ExamintionUserRelation.php on line 35
+[21-Oct-2016 14:54:17 Europe/Berlin] PHP Fatal error:  Class 'app\models\ExamUser' not found in D:\xampp\htdocs\online-exam\models\ExamintionUserRelation.php on line 35
+[21-Oct-2016 14:54:43 Europe/Berlin] PHP Fatal error:  Class 'app\models\ExamUser' not found in D:\xampp\htdocs\online-exam\models\ExamintionUserRelation.php on line 35
+[21-Oct-2016 15:18:36 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Price' not found in D:\xampp\htdocs\online-exam\controllers\ExamController.php on line 72
+[21-Oct-2016 15:40:20 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Price' not found in D:\xampp\htdocs\online-exam\controllers\ExamController.php on line 168
+[21-Oct-2016 18:17:25 Europe/Berlin] PHP Fatal error:  Class 'DynamicFormWidget' not found in D:\xampp\htdocs\online-exam\views\test\_form.php on line 16
+[21-Oct-2016 18:19:58 Europe/Berlin] PHP Fatal error:  Class 'app\controllers\Model' not found in D:\xampp\htdocs\online-exam\controllers\TestController.php on line 85
+[22-Oct-2016 10:28:31 Europe/Berlin] PHP Fatal error:  Class 'DynamicFormWidget' not found in D:\xampp\htdocs\online-exam\views\exam-user\_form.php on line 32
+[22-Oct-2016 11:43:33 Europe/Berlin] PHP Fatal error:  Class 'ArrayHelper' not found in D:\xampp\htdocs\online-exam\views\exam\view.php on line 39
+[22-Oct-2016 16:31:09 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamSearch' not found in D:\xampp\htdocs\online-exam\controllers\SiteController.php on line 60
+[01-Nov-2016 10:21:43 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamSearch' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 13
+[01-Nov-2016 10:37:32 Asia/Kolkata] PHP Fatal error:  Class 'Pagination' not found in D:\xampp\htdocs\online-exam\views\site\index.php on line 43
+[01-Nov-2016 10:38:00 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on array in D:\xampp\htdocs\online-exam\views\site\index.php on line 43
+[01-Nov-2016 10:38:24 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on array in D:\xampp\htdocs\online-exam\views\site\index.php on line 43
+[01-Nov-2016 10:39:54 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on array in D:\xampp\htdocs\online-exam\views\site\index.php on line 43
+[01-Nov-2016 10:42:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in D:\xampp\htdocs\online-exam\views\site\index.php on line 41
+[01-Nov-2016 12:13:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '(' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 48
+[01-Nov-2016 12:18:21 Asia/Kolkata] PHP Fatal error:  Class 'ArrayHelper' not found in D:\xampp\htdocs\online-exam\views\examination\index.php on line 49
+[01-Nov-2016 12:31:02 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '.' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 19
+[01-Nov-2016 13:03:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 19
+[01-Nov-2016 13:20:22 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\Pagination' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 25
+[01-Nov-2016 13:20:48 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\Pagination' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 25
+[01-Nov-2016 13:23:04 Asia/Kolkata] PHP Fatal error:  Call to a member function offset() on string in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 27
+[01-Nov-2016 13:26:21 Asia/Kolkata] PHP Fatal error:  Call to a member function offset() on string in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 27
+[01-Nov-2016 13:27:17 Asia/Kolkata] PHP Fatal error:  Call to a member function offset() on string in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 27
+[01-Nov-2016 14:25:35 Asia/Kolkata] PHP Fatal error:  Call to a member function offset() on string in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 27
+[01-Nov-2016 14:30:51 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 28
+[01-Nov-2016 14:31:22 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 28
+[01-Nov-2016 14:36:02 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 29
+[01-Nov-2016 14:52:24 Asia/Kolkata] PHP Fatal error:  Class 'Html' not found in D:\xampp\htdocs\online-exam\views\examination\index.php on line 37
+[01-Nov-2016 15:03:18 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 39
+[01-Nov-2016 15:07:16 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\Question' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:07:40 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\Question' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 34
+[01-Nov-2016 15:08:45 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\Question' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 34
+[01-Nov-2016 15:09:11 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\Question' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 34
+[01-Nov-2016 15:22:17 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:22:48 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:23:19 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:23:24 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:23:26 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:23:27 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:26:28 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExamPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:30:47 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:35:29 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 15:36:01 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 30
+[01-Nov-2016 15:38:03 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 31
+[01-Nov-2016 15:38:39 Asia/Kolkata] PHP Fatal error:  Class 'app\controllers\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 31
+[01-Nov-2016 15:42:40 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on array in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 34
+[01-Nov-2016 15:43:15 Asia/Kolkata] PHP Fatal error:  Class 'app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\views\site\index.php on line 15
+[01-Nov-2016 15:43:18 Asia/Kolkata] PHP Fatal error:  Class 'app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\views\site\index.php on line 15
+[01-Nov-2016 15:43:46 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on array in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 35
+[01-Nov-2016 15:47:50 Asia/Kolkata] PHP Fatal error:  Class 'app\models\ExanPaperRelation' not found in D:\xampp\htdocs\online-exam\controllers\ExamController.php on line 242
+[01-Nov-2016 15:49:13 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on array in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 35
+[01-Nov-2016 16:10:46 Asia/Kolkata] PHP Fatal error:  Call to a member function count() on array in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 33
+[01-Nov-2016 16:12:52 Asia/Kolkata] PHP Fatal error:  Class 'Html' not found in D:\xampp\htdocs\online-exam\views\examination\index.php on line 5
+[01-Nov-2016 16:15:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 10
+[01-Nov-2016 16:18:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 34
+[01-Nov-2016 16:19:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 35
+[03-Nov-2016 14:04:48 Asia/Kolkata] PHP Fatal error:  Class '\common\models\User' not found in D:\xampp\htdocs\online-exam\vendor\yiisoft\yii2\validators\ExistValidator.php on line 155
+[07-Nov-2016 13:12:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 55
+[07-Nov-2016 15:32:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 21
+[07-Nov-2016 15:33:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 21
+[07-Nov-2016 15:33:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 21
+[07-Nov-2016 15:33:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 21
+[07-Nov-2016 15:42:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 46
+[07-Nov-2016 15:44:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting function (T_FUNCTION) in D:\xampp\htdocs\online-exam\controllers\ExaminationController.php on line 47
+[08-Nov-2016 11:54:59 Asia/Kolkata] PHP Fatal error:  Class 'Expression' not found in D:\xampp\htdocs\online-exam\views\examination\index.php on line 55
+[08-Nov-2016 17:03:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'June' (T_STRING) in D:\xampp\htdocs\online-exam\views\examination\index.php on line 144
+[08-Nov-2016 17:27:13 Asia/Kolkata] PHP Fatal error:  Undefined class constant 'POS_END' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 150
+[08-Nov-2016 17:27:15 Asia/Kolkata] PHP Fatal error:  Undefined class constant 'POS_END' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 150
+[08-Nov-2016 17:27:48 Asia/Kolkata] PHP Fatal error:  Undefined class constant 'POS_END' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 151
+[08-Nov-2016 17:27:49 Asia/Kolkata] PHP Fatal error:  Undefined class constant 'POS_END' in D:\xampp\htdocs\online-exam\views\examination\index.php on line 151

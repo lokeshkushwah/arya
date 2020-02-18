@@ -1,0 +1,11 @@
+[12-Apr-2018 08:49:34 UTC] PHP Parse error:  syntax error, unexpected '©' (T_STRING) in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 18
+[12-Apr-2018 08:53:41 UTC] PHP Parse error:  syntax error, unexpected 'Rights' (T_STRING) in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 18
+[12-Apr-2018 08:54:04 UTC] PHP Parse error:  syntax error, unexpected 'by' (T_STRING) in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 18
+[12-Apr-2018 08:54:20 UTC] PHP Parse error:  syntax error, unexpected 'Digital' (T_STRING) in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 18
+[12-Apr-2018 09:12:40 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 35
+[12-Apr-2018 09:13:07 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 35
+[12-Apr-2018 09:13:31 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 35
+[26-Apr-2018 10:56:32 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 13
+[26-Apr-2018 10:57:06 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/anuragdevlal/public_html/wp-content/themes/education-hub/footer.php on line 13
+[28-Apr-2018 20:07:45 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/anuragdevlal/public_html/wp-includes/class-wp-query.php on line 736
+[11-Oct-2018 22:11:35 UTC] PHP Warning:  mysqli_query(): (HY000/2013): Lost connection to MySQL server during query in /home/anuragdevlal/public_html/wp-includes/wp-db.php on line 1924

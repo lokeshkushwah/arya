@@ -1,0 +1,2 @@
+[09-Jun-2018 03:55:05 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuragdevlal/public_html/wp-content/plugins/hello.php on line 59
+[09-Jun-2018 03:55:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/anuragdevlal/public_html/wp-content/plugins/hello.php on line 59

@@ -1,0 +1,46 @@
+Return-Path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Delivered-To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Received: from sg2plcpnl0073.prod.sin2.secureserver.net
+	by sg2plcpnl0073.prod.sin2.secureserver.net with LMTP
+	id UGE4Kti3pV32gS0ASlcL2Q
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	for <anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net>; Tue, 15 Oct 2019 05:13:12 -0700
+Return-path: <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>
+Envelope-to: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Delivery-date: Tue, 15 Oct 2019 05:13:12 -0700
+Received: from root by sg2plcpnl0073.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0073.prod.sin2.secureserver.net>)
+	id 1iKLhQ-00CWMr-J2
+	for anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net; Tue, 15 Oct 2019 05:13:12 -0700
+To: anuragdevlal@sg2plcpnl0073.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress 5.2.4 now available (security release)
+Date: Tue, 15 Oct 2019 06:13:12 -0600
+From: noreply@sg2plcpnl0073.prod.sin2.secureserver.net
+Message-ID: <2e800a8b6a255c2496fe51fc6d1fb4ee@sg2plcpnl0073.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.47
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to WordPress 5.2.4 (security release) is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://www.aryabhattinstitute.com
+
+
+The changes for this version are:
+
+WordPress 5.2.4 fixes 6 security issues.
+
+Security
+* an issue where stored XSS (cross-site scripting) could be added via the Customizer.
+* a method of viewing unauthenticated posts.
+* a way to create a stored XSS to inject Javascript into style tags.
+* a method to poison the cache of JSON GET requests via the Vary: Origin header.
+* a server-side request forgery in the way that URLs are validated.
+* issues related to referrer validation in the admin.
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

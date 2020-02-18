@@ -1,0 +1,5 @@
+[27-Oct-2018 11:13:41 UTC] PHP Fatal error:  Call to undefined function _e() in /home/anuragdevlal/public_html/wp-content/themes/twentysixteen/template-parts/content-none.php on line 13
+[28-Oct-2018 12:01:12 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/anuragdevlal/public_html/wp-content/themes/twentysixteen/template-parts/biography.php on line 21
+[30-Oct-2018 04:33:02 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/anuragdevlal/public_html/wp-content/themes/twentysixteen/template-parts/content-search.php on line 11
+[05-Dec-2018 09:58:58 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/anuragdevlal/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 09:59:15 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/anuragdevlal/public_html/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
